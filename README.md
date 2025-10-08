@@ -19,7 +19,7 @@
 
 📍 Natal - RN, Brasil  
 📧 **maateodtc@gmail.com**  
-🔗 [LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/mateo-calazans-24b409208/))  
+🔗 [LinkedIn](https://www.linkedin.com/in/mateo-calazans-24b409208/)  
 🐙 [GitHub](https://github.com/MateoCalazans)
 
 ---
