@@ -1,10 +1,33 @@
-👋 Hi, I’m @MateoCalazans
-👀 I’m interested in software development and programming internships.
-🌱 I’m currently learning Java, JavaScript, HTML, and CSS, while working on academic projects in Technology in Systems Analysis and Development (TADS).
-💞️ I’m looking to collaborate on coding projects, especially in web development and Java applications.
-📫 How to reach me: [maateodtc@gmail.com]
-😄 Pronouns: he/him
-⚡ Fun fact: I love technology and enjoy solving complex coding challenges!
+# 👋 Olá, eu sou o Mateo
+
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UFRN (EAJ)**  
+💡 Gosto de entender como as coisas funcionam e criar soluções simples e úteis  
+
+---
+
+## 🚀 Tecnologias e interesses
+
+- **Backend:** Java • Spring Boot • Python  
+- **Frontend:** Angular • TypeScript • HTML • CSS  
+- **Banco de Dados:** SQL • PostgreSQL  
+- **Automação & IA:** N8N • Flowise • Machine Learning  
+- **Outros:** Git • API REST • Análise de Dados  
+
+---
+
+---
+
+## 🌐 Contato
+
+📍 Natal - RN, Brasil  
+📧 **maateodtc@gmail.com**  
+🔗 [LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/mateo-calazans-24b409208/))  
+🐙 [GitHub](https://github.com/MateoCalazans)
+
+---
+
+> “Simplicidade é o último grau de sofisticação.” — Leonardo da Vinci
+
 
 <!---
 MateoCalazans/MateoCalazans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
