@@ -8,7 +8,7 @@
 ## 🚀 Tecnologias e interesses
 
 - **Backend:** Java • Spring Boot • Python  
-- **Frontend:** Angular • TypeScript • HTML • CSS  
+- **Frontend:** Angular • TypeScript/JavaScript • HTML • CSS  
 - **Banco de Dados:** SQL • PostgreSQL  
 - **Automação & IA:** N8N • Flowise • Machine Learning  
 - **Outros:** Git • API REST • Análise de Dados  
