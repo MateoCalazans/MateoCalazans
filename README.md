@@ -8,10 +8,11 @@
 ## 🚀 Tecnologias e interesses
 
 - **Backend:** Java • Spring Boot • Python  
-- **Frontend:** Angular • TypeScript/JavaScript • HTML • CSS • Flutter
+- **Frontend:** Angular • TypeScript/JavaScript • HTML • CSS
+- **Mobile:** Flutter
 - **Banco de Dados:** SQL • PostgreSQL  
-- **Automação & IA:** N8N • Flowise • Machine Learning  
-- **Outros:** Git • API REST • Análise de Dados • Docker 
+- **Automação & IA:** N8N • Flowise • OpenRouter  
+- **Outros:** Git • Docker
 
 ---
 
