@@ -7,11 +7,11 @@
 
 ## 🚀 Tecnologias e interesses
 
-- **Backend:** Java • Spring Boot • Python  
-- **Frontend:** Angular • TypeScript/JavaScript • HTML • CSS
-- **Mobile:** Flutter
-- **Banco de Dados:** SQL • PostgreSQL  
-- **Automação & IA:** N8N • Flowise • OpenRouter  
+- **Shopify:** Shopify • Liquid • Metafields & Metaobjects • Shopify Functions • APIs
+- **Frontend:** JavaScript • TypeScript • HTML • CSS
+- **Backend:** Node.js • Python
+- **Banco de Dados:** SQL • PostgreSQL
+- **Automação & IA:** N8N • Flowise • OpenRouter
 - **Outros:** Git • Docker
 
 ---
