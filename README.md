@@ -33,12 +33,6 @@ Flowise · OpenRouter
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![Mateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateoCalazans&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MateoCalazans&layout=compact)
 
 ---
 
@@ -46,7 +40,7 @@ Flowise · OpenRouter
 
 📍 Natal - RN, Brazil  
 📧 **maateodtc@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/mateo-calazans-24b409208/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mateocalazans/)  
 🐙 [GitHub](https://github.com/MateoCalazans)
 
 ---
